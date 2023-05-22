@@ -1,13 +1,13 @@
-Bluetooth-Controlled RC Car
+*Bluetooth-Controlled RC Car*
 
 
-Overview:
+*Overview:*
 
 
 - The Bluetooth-Controlled RC Car project allows users to remotely control a miniature car using their mobile devices. The project utilizes Bluetooth technology to establish a wireless connection between the RC car and a dedicated mobile application, enabling users to send commands and control the car's movements.
 
 
-#Features:
+*Features:*
 
 
 - Wireless control: The RC car can be controlled wirelessly using a mobile device via Bluetooth.
@@ -15,7 +15,7 @@ Overview:
 - Speed control: The mobile application allows users to adjust the car's speed according to their preference or the operating environment.
 
 
-#Hardware Requirements:
+*Hardware Requirements:*
 
 
 - RC car chassis
@@ -26,7 +26,7 @@ Overview:
 - Microchip Studio for programming the microcontroller
 
 
-#Installation and Setup:
+*Installation and Setup:*
 
 
 - Clone the project repository to your local machine.
